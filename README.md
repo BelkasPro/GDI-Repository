@@ -1,2 +1,2 @@
 # ♻ GDI-Repository
-Uploading only GDI-malwares
+Uploading only GDI-malwares & Non-GDI malwares
