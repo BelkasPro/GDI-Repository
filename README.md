@@ -1,4 +1,5 @@
 <h1 align="center">♻ GDI-Repository</h1>
-![Stars](https://img.shields.io/github/stars/belkaspro/gdi-repository?style=flat&label=Stars)
+![Stars](https://img.shields.io/github/stars/belkaspro/GDI-Repository?style=flat&label=Stars)
+
 <h2 align="center">Uploading only GDI-malwares & Non-GDI malwares</h2>
 <h1 align="center">⚠ I am not responsible for any damage made to your computer</h1>
